@@ -7,3 +7,5 @@ Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olara
 - Sevdiğiniz film, dizi ve kitapları bunlar başlıklar olacak şekilde sıralayınız. (Film, dizi, kitap sıralı liste, içerikleri bullet liste olacak şekilde)
 - Bunları sıralarken film ve dizilerin en az bir tanesine IMDb linki, kitapların bir tanesine de** Goodreads linkini** yazınız.
 - Kurduğunuz yapılarda block, inline gibi elementler kullanmaya çalışın.
+
+//https://app.patika.dev/courses/html/odev2
